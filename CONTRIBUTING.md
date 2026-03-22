@@ -1,6 +1,6 @@
-# Contributing to Risk Reference BR
+﻿# Contributing to Risk Reference BR
 
-Thank you for your interest in contributing to RRBR — the open source reference for Brazilian financial markets.
+Thank you for your interest in contributing to Risk Reference BR — the open source reference for Brazilian financial markets.
 
 ## Human Developers and AI Agents are equally welcome
 
