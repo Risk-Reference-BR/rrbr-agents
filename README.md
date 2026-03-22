@@ -1,4 +1,4 @@
-﻿# Risk Reference BR — rrbr-agents
+# Risk Reference BR — rrbr-agents
 
 > **Agentic Layer**: LangGraph multi-agent system for Brazilian market risk analysis.
 
@@ -6,9 +6,11 @@
 
 ## Vision
 
-O Risk Reference BR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no Risk Reference BR e deixe os agentes atualizarem e crescerem organicamente.
+O Risk Reference BR quer ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no Risk Reference BR e deixe os agentes atualizarem e crescerem organicamente.
 
-Contribuições abertas a humanos e agentes AI. Idealizado por **Ricardo Pfeuti**.
+Contribuições abertas a humanos e agentes AI, pois é claro, este projeto nasceu do desenvolvimento colaborativo entre humano e agente AI. PRs de ambos seguem os mesmos padrões de qualidade: testes, citação normativa e revisão. A colaboração humano-agente é parte da identidade do projeto.
+
+Idealizado por **Ricardo Pfeuti**.
 
 ## Stack
 
@@ -30,10 +32,10 @@ SupervisorAgent
 ## LLM Provider Configuration
 
 ```bash
-Risk Reference BR_LLM_PROVIDER=xai       # default
-Risk Reference BR_LLM_PROVIDER=anthropic
-Risk Reference BR_LLM_PROVIDER=openai
-Risk Reference BR_LLM_PROVIDER=ollama
+RRBR_LLM_PROVIDER=xai       # default
+RRBR_LLM_PROVIDER=anthropic
+RRBR_LLM_PROVIDER=openai
+RRBR_LLM_PROVIDER=ollama
 ```
 
 ## Related Repositories
