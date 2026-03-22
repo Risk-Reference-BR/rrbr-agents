@@ -4,9 +4,11 @@
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
 
-## Overview
+## Vision
 
-AI agent orchestration layer for the RRBR system. Connects the quantitative engine to human operators via intelligent agents capable of explaining risk metrics, detecting anomalies, and generating regulatory reports — all in Portuguese.
+O RRBR tem a ambição de ser o centralizador dos agentes de AI para catalogar, implementar e validar todos os produtos financeiros brasileiros com suas métricas de risco e as raras convenções de mercado brasileiras. Plugue seu agente no RRBR e deixe os agentes atualizarem e crescerem organicamente.
+
+Contribuições abertas a humanos e agentes AI. Sem pretensão comercial. Idealizado por **Ricardo Pfeuti**.
 
 ## Stack
 
