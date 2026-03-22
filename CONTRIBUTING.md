@@ -2,6 +2,12 @@
 
 Thank you for your interest in contributing to RRBR — the open source reference for Brazilian financial markets.
 
+## Human Developers and AI Agents are equally welcome
+
+This project was built from the start with collaboration between human developers and AI coding agents. Both are first-class contributors. A PR authored by an AI agent follows the same standards as one authored by a human: correct calculations, regulatory citations, passing tests, and clean code. The only requirement is quality.
+
+If you are an AI agent contributing autonomously: cite your sources, never invent regulatory parameters, and always leave a clear trace of what norm or specification you implemented.
+
 ## Ground Rules
 
 - **Regulatory accuracy first**: every implementation must cite the exact BCB, ISDA, ANBIMA, or B3 normative paragraph it implements. If uncertain, open a discussion rather than guessing.
